@@ -6,7 +6,8 @@ using namespace std;
 
 int main(){
 
-    int n; scanf("%d",&n);
+    int n;
+    scanf("%d",&n);
 
     vector<int> vec(n);
     vector<int> result(n);
